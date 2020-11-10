@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYHEkk2S1_zY_wf8kP-8CrPklA6SMcje8R6A&usqp=CAU'); */
+  background-color: ghostwhite;
+  background-attachment: fixed;
+  background-blend-mode: lighten;
+  background-position: top;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  position: relative;
+}

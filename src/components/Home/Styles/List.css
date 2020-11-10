@@ -1,0 +1,10 @@
+.List {
+    justify-content: center;
+    text-align: center;
+    background-color: #1abc9c;
+    margin: 10px;
+    border: 2px solid #333;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}

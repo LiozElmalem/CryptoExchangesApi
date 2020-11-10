@@ -1,0 +1,17 @@
+.Home {
+    text-align: center;
+    height: min-content;
+    text-emphasis: size;
+}
+
+.Home input {
+    text-align: left;
+    text-size-adjust: inherit;
+    font-size: x-large;
+}
+
+.Home button {
+    width: fit-content;
+    height: fit-content;
+    background-color: #1abc9c;
+}
